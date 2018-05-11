@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Youtube::VERSION
   gem.authors       = ["Matthew Perry"]
   gem.email         = ["muffinman616@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "Ruby wrapper for youtube-dl" 
+  gem.summary       = "Ruby wrapper for youtube-dl"
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
